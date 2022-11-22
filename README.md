@@ -34,4 +34,4 @@ Note: Bluetooth devices won't automatically connect to the AmpliPi when the Blue
    }
    ```
 
-Return to the AmpliPi main page, and select teh new Bluetooth stream type. Then, from a bluetooth-capable device, connect to the 'amplipi' device and start playing audio.
+Return to the AmpliPi main page, and select the new Bluetooth stream type. Then, from a bluetooth-capable device, connect to the 'amplipi' device and start playing audio.
